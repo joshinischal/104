@@ -1,0 +1,16 @@
+week1.4
+npm install express
+
+function in js:
+regular: function(){}
+arrow: ()=>{}
+
+port no.s:0-64k
+0-1100: internal services ports
+
+localhost:3000
+http://127.0.0.1:3000/
+[::1]:3000
+
+json: jhola (data store and transfer)
+message: chowchow

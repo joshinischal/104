@@ -6,7 +6,8 @@ const app= require("express")()
 app.get("/",(req,res)=>{
     // res.send("<h1>Hello i m from hompage </h1>")
     res.json({
-        message: "i am from json home pages"
+        message: "i am from json home pages",
+        status:"student"
 })
 })
 app.get("/contact",(req,res)=>{
